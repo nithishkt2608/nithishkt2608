@@ -5,7 +5,7 @@ Cloud & DevOps Engineer | MCS @ Illinois Tech
 ---
 
 ## Certifications
-- AWS Certified Solutions Architect — Associate (SAA-C03)
+- AWS Certified Solutions Architect — Associate (SAA-C03)        -     (In-Process)
 
 ---
 
