@@ -29,10 +29,11 @@
 
 ## Skills
 **AI/ML:** LangChain · AutoGen · Prompt Engineering · RAG Pipelines · Claude API · Llama 3 · Ollama · Multi-Agent Systems  
-**Cloud:** AWS (EC2 · S3 · Lambda · RDS · EKS · CloudFront · Route 53 · SNS · IAM)  
-**DevOps:** Docker · Kubernetes · Terraform · GitHub Actions · CI/CD  
-**Programming:** Python · Boto3 · Bash · JavaScript · SQL  
+**Cloud:** AWS (EC2 · S3 · Lambda · RDS · EKS · CloudFront · Route 53 · SNS · IAM · GuardDuty · Security Hub · Cost Explorer)  
+**DevOps:** Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · CI/CD  
+**Programming:** Python · Boto3 · Bash · Shell Scripting · JavaScript · SQL  
 **Monitoring:** Prometheus · Grafana · CloudWatch  
+**Security:** IAM · GuardDuty · Security Hub · KMS · NACLs
 
 ---
 
